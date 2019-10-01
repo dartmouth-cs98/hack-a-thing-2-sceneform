@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/nameAnimal"
+    android:textColor="@color/colorPrimaryDark"
+    android:gravity="center"
+    android:padding="16dp"
+    android:textSize="40sp"
+    android:text="Lion"
+    android:textAllCaps="true"
+    android:background="@drawable/round_bg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+</TextView>
