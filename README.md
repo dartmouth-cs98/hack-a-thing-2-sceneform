@@ -9,3 +9,6 @@ It was helpful in preparing projects as some of the project ideas I've thought a
 #### What did not work
 
 The app was not stable&broke a couple of times and I have not yet been able to detect the cause of it.
+
+##### Reference
+https://www.youtube.com/watch?v=2xkZUPUbgoM
